@@ -1,0 +1,11 @@
+.iml
+.idea
+build
+assets
+cmake-build-debug
+**/venv*
+*.csv
+*.json
+*.au
+*.zip
+**/latex*

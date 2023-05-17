@@ -13,8 +13,10 @@
         </tr>
     </tbody>
 </table>
+
 # Objectifs
 Ce projet à pour objectif de produire une chaine complète d'Intelligence Artificielle pour la prédiction du genre musical d'un morceau parmi un base de données de [genres musicaux](https://www.kaggle.com/carlthome/gtzan-genre-collection) sur une cible Embarqué dans notre cas une [Raspberry PI 4](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/) utilisant un Debian 10 64 bit
+
 <figure>
     <img src="imgs/chaine_ML.svg" alt="Chaine de Machine Learning" style="display: block; margin-left: auto;margin-right: auto; width: 50%;">
     <figcaption >Fig 1. Chaine de Machine Learning du projet</figcaption>
